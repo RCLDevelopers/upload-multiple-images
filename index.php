@@ -13,7 +13,7 @@
 <body>
 
 <div class="jumbotron text-center">
-    <h1>Upload Multiple Images with PHP</h1>
+    <h1>Upload Multiple Images</h1>
     <p>Resize this responsive page to see the effect!</p>
 </div>
 
